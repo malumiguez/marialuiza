@@ -1,0 +1,33 @@
+body{
+	color: Black;
+	font-family: Arial;
+	font-size:12pt;
+	font-weight: bold;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	text-align: justify;
+}
+
+div{border-top: solid;
+	border-width: 0px;
+	position: absolute;
+}
+
+.quadro1{top: 0px;
+		width: 202px;
+		height: 100px;
+		background-color: purple;
+}
+
+.quadro2{top: 102px;
+		width: 100px;
+		height: 100px;
+		background-color: red;
+}
+
+.quadro3{top: 102px;
+		left: 110px;
+		width: 100px;
+		height: 100px;
+		background-color: blue;
+}
