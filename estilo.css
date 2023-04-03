@@ -8,26 +8,25 @@ body{
 	text-align: justify;
 }
 
-div{border-top: solid;
-	border-width: 0px;
-	position: absolute;
+div{
+    width: 500px;
+    height: 100px;
+    position: relative;
+}
+        
+.cvlattes{
+      top: 130px;
+      left: 250px;
+}
+        
+.vermelho{
+          top: 130px;
+          left: 130px;
+          background: red;
 }
 
-.quadro1{top: 0px;
-		width: 202px;
-		height: 100px;
-		background-color: purple;
-}
-
-.quadro2{top: 102px;
-		width: 100px;
-		height: 100px;
-		background-color: red;
-}
-
-.quadro3{top: 102px;
-		left: 110px;
-		width: 100px;
-		height: 100px;
-		background-color: blue;
+.verde{
+      top: 130px;
+      left: 130px;
+      background: green;
 }
